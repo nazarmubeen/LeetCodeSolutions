@@ -49,6 +49,7 @@ public class FoursumProblem {
     						k++;
     						l--;
     						
+    						
     						while(k<l && nums[l]==nums[l+1] ){
     	                        l--;
     	                    }
