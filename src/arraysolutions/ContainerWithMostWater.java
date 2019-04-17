@@ -7,7 +7,6 @@ public class ContainerWithMostWater {
 		ContainerWithMostWater cw=new ContainerWithMostWater();
 		int[] arr={9,8,6,2,5,4,8,3,7,5};
 		System.out.println("max area is " +cw.maxArea(arr));
-		
 	}
 	
 	
